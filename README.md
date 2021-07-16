@@ -1,2 +1,3 @@
 # Cans-of-Drug
-Home-made viruses
+Random home-made things
+Wanna join us? 😎
