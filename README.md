@@ -1,3 +1,3 @@
 # Cans-of-Drug
-Random home-made things
-Wanna join us? 😎
+<p>Random home-made things.</p>
+<p>Wanna join us? 😎</p>
