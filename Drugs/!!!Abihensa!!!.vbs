@@ -190,10 +190,8 @@ Function Heat()
 	Dim Text1, Title1, Button, Icon
 	Text1 = "Overheat Alert!" & vbCrLf & "You played too much game, Your computer is about to overheat!" & vbCrLf & "Current Heat: " & rand & vbCrLf & "Reboot Computer?"
 	Title1 = "Overheat Alert!"
-	Button = yesnocancel
-	Icon = question
 	
-	X = MsgBox(Text1, Button + Icon, Title1)
+	X = MsgBox(Text1, yesnocancel + question, Title1)
 	If(X = cancel Or X = no)Then
 		Heat()
 		count = count + 1
